@@ -1,1 +1,1 @@
-{"trim": "", "base": "bd4bd52", "trimbase": "", "parent": "debian/foxy/gtest_vendor", "previous": "317d6c6"}
+{"base": "a0f8488", "parent": "debian/testing2/gtest_vendor", "previous": "a1ff0c6", "trim": "", "trimbase": ""}
