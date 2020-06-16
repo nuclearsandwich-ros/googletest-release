@@ -1,1 +1,1 @@
-{"trim": "", "base": "7980465", "trimbase": "", "parent": "debian/foxy/gmock_vendor", "previous": "c97290c"}
+{"base": "b387902", "parent": "debian/rolling/gmock_vendor", "previous": "065e94d", "trim": "", "trimbase": ""}
